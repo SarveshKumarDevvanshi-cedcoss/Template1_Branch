@@ -4,3 +4,19 @@
 .p-15{
     padding: 15px;
 }
+.row{
+    width: 100%;
+    display: flex;
+}
+.col-12{
+    width: 100%;
+}
+.col-6{
+    width:50%;
+}
+.text-justify{
+    text-align: justify;
+}
+.pl-25{
+    padding-left: 25px;
+}
